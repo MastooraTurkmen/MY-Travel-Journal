@@ -1,8 +1,8 @@
-# React + Vite
+# MY Travel Journal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Hi there, 
+This is my Travel Journal, here you can find different types of countries and you can also see them on Google Maps. 
 
-Currently, two official plugins are available:
+Thank you sooo much, Enjoyyyy :)))
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot 2023-10-02 164625](https://github.com/MastooraTurkmen/MY-Travel-Journal/assets/132576850/2c754ab8-bb57-4282-bf4e-08edac79010e)
