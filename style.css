@@ -1,0 +1,104 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  background: #e5e5e5;
+  height: 100vh;
+}
+
+h1 {
+  margin-top: 0px;
+  margin-bottom: 1rem;
+  color: #2b283a;
+  font-size: 1.5625em;
+}
+
+h3 {
+  font-size: 0.914em;
+  font-weight: 400;
+  margin-left: 0.437rem;
+}
+
+section {
+  padding: 2.8125rem 2.5rem;
+  background: white;
+  padding-bottom: 0px;
+}
+
+a {
+  text-decoration: none;
+  color: #918e9b;
+  font-size: 0.7em;
+  margin-left: 0.75em;
+  border-bottom: 1px solid #918e9b;
+}
+
+.container {
+  display: grid;
+  place-content: center;
+}
+
+.country {
+  font-weight: 400;
+  letter-spacing: 1.74px;
+  font-size: 0.7em;
+  margin-left: 0.2rem;
+}
+
+.content-part-two,
+.part {
+  display: flex;
+}
+
+.content-part-two {
+  align-items: center;
+  margin-bottom: 0px;
+}
+
+.part {
+  border-bottom: 2px solid #f5f5f5;
+  padding-bottom: 2rem;
+}
+
+.map-icon {
+  margin-bottom: 0.135rem;
+}
+
+.navbar {
+  background: #f55a5a;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  padding: 0.5rem 0;
+}
+
+.traverl-places-images {
+  width: 126px;
+  height: 168px;
+  margin-right: 1.25rem;
+}
+
+.content {
+  width: 326px;
+}
+
+.date {
+  color: #2b283a;
+  font-size: 0.7em;
+  font-weight: 700;
+  margin-top: 0px;
+}
+
+.information {
+  color: #2b283a;
+  font-size: 0.7em;
+  font-weight: 400;
+  line-height: 15.36px;
+}
+
+.card-container {
+  margin-bottom: 2em;
+}
