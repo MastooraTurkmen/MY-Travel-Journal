@@ -1,7 +1,9 @@
 # MY Travel Journal
 
+> https://travel-tour-journal.netlify.app/
+
 ## Hi there, 
-This is my Travel Journal, here you can find different types of countries and you can also see them on Google Maps. 
+This is my Travel Journal, you can find different types of countries and you can also see them on Google Maps. 
 
 Thank you sooo much, Enjoyyyy :)))
 
